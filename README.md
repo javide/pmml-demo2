@@ -1,5 +1,5 @@
 # pmml-demo2
-Java demo of a PMML model originally trained with Python sklearn.neural_network.MLPClassifier 
+Java demo of a PMML model originally trained with Python sklearn.neural_network.MLPRegressor
 
 ## Prerequisites
  - Java 8
